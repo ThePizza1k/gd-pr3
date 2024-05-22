@@ -1065,7 +1065,7 @@ game.start.addListener(function()
 
 
     --loader.bg_layer.setRect(-675,-480,2025,1440,0xFF283EFF)
-    loader.startColorBG = {102, 0, 99}
+    loader.startColorBG = {102, 0, 99} -- put proper colors here (I'm not loading it from level data yet)
     loader.startColorG = {191, 0, 255}
 
     --[[ OLD
